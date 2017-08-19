@@ -1,0 +1,11 @@
+.deleteButtonCard {
+	margin: auto;
+	color: grey;
+	font-size: 18px;
+	text-align: center;
+	max-width: 200px;
+}
+
+.cardHolderDiv {
+	padding: 15px;
+}
