@@ -9,7 +9,7 @@ function domString(){
 	cardString += `<p>${getText.value}</p>`
 	cardString += `<button class="delete" id="delete">x</button>`
 	cardString += `</div>`
-	getCreateCard.innerHTML = cardString;
+	getCreateCard.innerHTML += cardString;
 	console.log(cardString);
 }
 
